@@ -1,0 +1,11 @@
+.name-tag{
+  border: 2px solid rgb(236, 232, 232);
+  width:150px;
+  height:150px;
+  background-color: rgb(11, 134, 73);
+  color: white;
+  display: inline-block;
+  text-align: center;
+  line-height: 150px;
+  margin: 3px;
+}
